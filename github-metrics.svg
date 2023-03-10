@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2240" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2257" class="">
     <defs>
         <style/>
     </defs>
@@ -2266,14 +2266,14 @@
                 <div class="row fill-width">
                     <section class="sponsors">
                         <div class="markdown">
-                            <p>Working on <a href="https://github.com/saltyorg/Saltbox">Saltbox</a>. You can use <a href="https://www.paypal.me/saltydk">Paypal</a> for one-time donations as well.</p>
+                            <p>Working on <a href="https://github.com/saltyorg/Saltbox">Saltbox</a>. You can use <a href="https://www.paypal.me/saltydk">Paypal</a>, <a href="https://patreon.com/saltydk">Patreon</a> and <a href="https://ko-fi.com/saltydk">Ko-fi</a> as alternate donation options.</p>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Mar 2023, 23:04:02 (timezone Europe/Copenhagen) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 11 Mar 2023, 00:03:53 (timezone Europe/Copenhagen) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
